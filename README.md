@@ -44,7 +44,7 @@
 
   - Build output directory: `/dist`
 
-  - **IMPORTANT:** You need to set the node version, as default Cloudflare is 12.18.0.  We are currently at 18.16.0.  
+  - **IMPORTANT:** You need to set the node version, as default Cloudflare is 12.18.0.  We are currently at 20.12.2.  
 
     - Check your node version in CLI: `node -v`
 
